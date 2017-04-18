@@ -1,0 +1,33 @@
+<html>
+<head>
+<style>
+
+body {
+    background-image: url("3.jpg");
+}
+
+td{
+
+	font-size: 120%;
+	color: white;
+}
+
+div{
+	font-size: 150%; 
+	color: white;
+}
+
+label{
+	font-size: 120%;
+	color: white;
+}
+
+input{
+	font-size: 100%;
+	
+}
+
+
+</style>
+</head>
+<body>
